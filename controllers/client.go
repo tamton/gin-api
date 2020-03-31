@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/gin-gonic/gin"
-	"../database"
+	"github.com/tamton/gin-api/database"
 )
 
 type Post struct {

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./controllers"
+	"github.com/tamton/gin-api/controllers"
 	"github.com/gin-gonic/gin"
 )
 
